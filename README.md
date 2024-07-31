@@ -1,12 +1,12 @@
-# Testing data extraction 
+# Testing data extraction
 
-To do list test: 
+To do list test:
 
-- [] ScrapeGrapeAI 
+- [] ScrapeGrapeAI
 - [] mlscraper
 - [] AutoScraper
 - [] Scrapy
 - [] Scrapely
 - [] Crawlee
 
-### ScrapeGrapeAI 
+### ScrapeGrapeAI

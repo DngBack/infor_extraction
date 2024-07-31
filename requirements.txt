@@ -1,1 +1,19 @@
+autoscraper
+
+# crawlee
+crawlee
+crawlee[beautifulsoup]
+crawlee[playwright]
+
+# autoscraper
+git+https://github.com/alirezamika/autoscraper.git
+
+# mlscraper
+git+https://github.com/lorey/mlscraper#egg=mlscraper
+pre-commit
 # Using Python 3.10
+# Normal
+python-dotenv
+
+# scrapegraphai
+scrapegraphai
