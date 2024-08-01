@@ -10,6 +10,9 @@ git+https://github.com/alirezamika/autoscraper.git
 
 # mlscraper
 git+https://github.com/lorey/mlscraper#egg=mlscraper
+
+# parsee ai
+parsee-core
 pre-commit
 # Using Python 3.10
 # Normal
